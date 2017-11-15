@@ -1,0 +1,23 @@
+.header {
+  text-align: center;
+  font-family: monospace;
+  color: darkred;
+  font-size-adjust: auto;
+  line-height: inherit;
+}
+
+.job {
+  color: orange;
+  font-family: sans-serif;
+  text-transform: capitalize;
+}
+
+.dets {
+  color: green;
+  text-decoration: inherit;
+  font-weight: 200;
+}
+.skills{
+  font-family: monospace;
+  font-variant-east-asian: normal;
+}
